@@ -3,6 +3,14 @@
 This is a Next.js-based ecommerce application template integrated with Sanity for content management, Clerk for authentication, Stripe for payments, and Sendbird for chat functionality.
 Follow the steps below to set up and customize the application.
 
+## 🔗Rendering Choices
+
+The Vastralaya Ecommerce Application uses Next.js for rendering, combining Server-Side Rendering (SSR) and Static Site Generation (SSG) to achieve both speed and SEO optimization. SSR is used for dynamic pages like product details and user dashboards to ensure real-time data fetching, while SSG is applied to static sections like the homepage for faster initial load times.
+
+The Sanity CMS integration ensures that product and content updates are reflected instantly through incremental revalidation. The UI rendering leverages React components with Tailwind CSS and Shadcn UI for a consistent, modern, and responsive design.
+
+All images and assets are optimized through Next.js Image Optimization to balance quality and performance. Dynamic elements such as the shopping cart, chat (Sendbird), and authentication (Clerk) are client-rendered for a seamless, interactive user experience.
+
 ## 🔗 Preview
 
 <img width="1471" height="797" alt="image" src="https://github.com/user-attachments/assets/d08eed94-1619-45e4-97cf-6b127b589962" />
