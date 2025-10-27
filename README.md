@@ -5,7 +5,8 @@ Follow the steps below to set up and customize the application.
 
 ## 🔗 Preview
 
-## ![Dashboard Preview](/public/preview_image.png)
+<img width="1471" height="797" alt="image" src="https://github.com/user-attachments/assets/d08eed94-1619-45e4-97cf-6b127b589962" />
+
 
 ## Getting started
 
